@@ -1,6 +1,19 @@
 #### This is a Level 4 heading
+Okay kocu
 
 1. Open index.html in your browser
 2. This is in features branch
-3.  Another code have been added in feaatures branche
+This is List Items
+1. Item 1
+2. Item 2
+3. Item 3
 
+This teaxt to be bold **AREA TO BOLd**
+
+This unordered List
+
+- FRiest Item
+- Second Item
+- Third Item
+- Fourth Item
+- Just added inmaster branch
